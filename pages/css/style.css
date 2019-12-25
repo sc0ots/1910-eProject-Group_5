@@ -501,7 +501,7 @@ textarea.input {
 
 .header-ctn {
   float: right;
-  padding: 15px 0px;
+  padding: 0px 0px;
 }
 
 .header-ctn>div {
@@ -643,9 +643,13 @@ textarea.input {
   padding: 20px 0px;
 }
 
-.main-nav>li>a:hover, .main-nav>li>a:focus, .main-nav>li.active>a {
+.main-nav>li>a:hover, .main-nav>li>a:focus, .main-nav>li.active>a, .dropdown-menu>li>a:hover {
   color: darkorange;
   background-color: transparent;
+}
+
+.dropdown-menu>li>a{
+  padding: 10px;
 }
 
 .main-nav>li>a:after {
