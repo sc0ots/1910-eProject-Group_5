@@ -1,4 +1,5 @@
 1910.M1-eProject-Group_5
+Center name: ACE-HCMC-2-FPT
 Batch no.: T1.1910.M1
 
 Project title: Imperial - Electric Appliances Store
